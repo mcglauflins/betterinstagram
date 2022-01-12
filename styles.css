@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+p {
+    line-height: 20px;
+}
+.instapost {
+    background-color: white;
+    margin: auto;
+    width:min-content;
+    margin-top: 70px;
+}
+.post-header {
+    display: flex;
+    padding: 8px 8px 0px 8px;
+}
+.userphoto {
+    padding: 10px 10px 10px 5px;
+}
+.userinfo {
+    padding-top: 2px;
+}
+.kebab {
+    margin-left: auto;
+    padding: 7px 8px 0px 0px;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+    padding-top: 2px;
+}
+.icons{
+    padding: 15px 10px 15px 10px;
+}
+.heartbtn {
+    padding: 2px;
+}
+.planebtn {
+    padding: 2px;
+}
+.commentbtn{
+    padding: 2px;
+}
+.likes{
+    padding: 10px;
+}
+.bookmark {
+  float: right;
+   display: inline-block;
+   padding-right: 15px;
+}
+.commentsection {
+    padding: 0px 10px 10px 10px;
+}
+.userinfo span{
+    display: block;
+    height: 38%;
+}
+userinfo span.top{
+    display: flex;
+    align-items: flex-end;
+}
